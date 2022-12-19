@@ -1,0 +1,16 @@
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\bin\Debug\BugTracker.exe.config
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\bin\Debug\BugTracker.exe
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\bin\Debug\BugTracker.pdb
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\bin\Debug\EntityFramework.dll
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\bin\Debug\EntityFramework.SqlServer.dll
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\bin\Debug\EntityFramework.xml
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\bin\Debug\EntityFramework.SqlServer.xml
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.AssemblyReference.cache
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.SuggestedBindingRedirects.cache
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.Form1.resources
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.Properties.Resources.resources
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.GenerateResource.cache
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.CoreCompileInputs.cache
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.CopyComplete
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.exe
+E:\Workspace\Visual Studio Workspace\BugTracker\BugTracker\obj\Debug\BugTracker.pdb
